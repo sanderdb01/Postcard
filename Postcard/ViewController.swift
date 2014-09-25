@@ -33,6 +33,7 @@ class ViewController: UIViewController {
     {
         //Code will evaluate when we press the button
         //Adding a comment here to test commits
+        //Adding a comment here to test revisions
         messageLabel.hidden = false;
         messageLabel.text = enterAMessageTextField.text;
         enterAMessageTextField.text = "";
